@@ -1,0 +1,32 @@
+Basic Linux Commands 
+
+1.	ls: LIST THE NAMES OF FILES
+2.	man ls -GIVES THE LIST OF MANUALS
+3.	cat: DISPLAYS A TEXT FILE
+4.	rm: DELETES A FILE
+5.	less Is more: DISPLAY A TEXT FILE ONE SCREEN AT A TIME
+6.	hostname: DISPLAYS THE SYSTEM NAME
+7.	mv: CHANGES THE NAME OF A FILE
+8.	lpr: PRINTS A FILE
+9.	grep: SEARCHES FOR A STRING
+10.	head: DISPLAYS THE BEGINNING OF A FILE
+11.	tail: DISPLAYS THE END OF A FILE
+12.	sort: DISPLAYS A FILE IN ORDER
+13.	uniq: REMOVES DUPLICATE LINES FROM A FILE
+14.	diff: COMPARES TWO FILES
+15.	file: IDENTIFIES THE CONTENTS OF A FILE
+16.	memo: ASCII text zach.jpg: JPEG image data
+17.	| (Pipeline): COMMUNICATES BETWEEN PROCESSES
+18.	echo: DISPLAYS TEXT
+19.	date: DISPLAYS THE TIME AND DATE
+20.	script: RECORDS A SHELL SESSION
+21.	unix2dos: CONVERTS LINUX FILES TO WINDOWS AND MACOS
+22.	Pwd: The directory you are associated with is called the working directory or current directory. 
+23.	Absolute Pathnames: An absolute pathname starts with a slash (/), which represents the root directory
+24.	mkdir: CREATES A DIRECTORY
+25.	cd: CHANGES TO ANOTHER WORKING DIRECTORY
+26.	rmdir: DELETES A DIRECTORY
+27.	mv, cp (Move or Copy Files): The use of mv utility is to move files from one directory to another as well as to change a simple filename.
+28.	The cp utility works in the same way mv does, except it makes copies of the existing file-list in the specified directory.
+29.	mv: Moves a Directory
+30.   touch: tocreate a file 
